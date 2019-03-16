@@ -89,5 +89,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Lock desktop -->
     <string name="lock_desktop_title">Desktop sperren</string>
     <string name="lock_desktop_summary">Verhindert Änderungen des Startbildschirms</string>
-    <string name="lock_desktop_toast">Desktop is locked. Unlock it to proceed.</string>
+    <string name="lock_desktop_toast">Bildschirm ist gesperrt. Entsperren, um fortzufahren.</string>
 </resources>
