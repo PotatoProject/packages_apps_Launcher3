@@ -31,13 +31,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Sub categories -->
     <string name="home_grid_title">Disposition de la grille</string>
     <string name="icon_layout_title">Disposition des icônes</string>
-    <!-- Icon labels -->
-    <string name="allapps_long_labels_title">Labels longs des applications</string>
-    <string name="allapps_long_labels_summary">Autorise une application à afficher les labels sur 2 lignes</string>
     <!-- Icon packs -->
     <string name="icon_pack">Pack d\'icônes</string>
     <string name="icon_pack_summary">Changer le look de vos icônes</string>
-    <string name="icon_pack_none">Aucun</string>
+    <string name="icon_pack_none">Par défaut</string>
+    <string name="edit_drop_target_label">Éditer</string>
+    <string name="edit_hint">Nom de l\'icône</string>
+    <string name="reset_icon">Réinitialiser</string>
+    <string name="all_icons">Toutes les icônes</string>
+    <string name="similar_icons">Icônes similaires</string>
+    <string name="ok">OK</string>
+    <string name="icon_label">Label</string>
+    <string name="loading">Chargement, veuillez patienter...</string>
+    <string name="icon_chooser">Sélecteur d\'icônes</string>
+    <string name="icon_search">Rechercher des icônes</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">Forme des icônes</string>
     <string name="icon_shape_rounded_square">Carré arrondi</string>

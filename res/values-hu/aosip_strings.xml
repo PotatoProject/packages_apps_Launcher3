@@ -31,13 +31,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Sub categories -->
     <string name="home_grid_title">Rácselrendezés</string>
     <string name="icon_layout_title">Ikonelrendezés</string>
-    <!-- Icon labels -->
-    <string name="allapps_long_labels_title">Hosszú alkalmazás címkék</string>
-    <string name="allapps_long_labels_summary">Engedélyezi a két soros alkalmazás címkét</string>
     <!-- Icon packs -->
     <string name="icon_pack">Ikoncsomag</string>
     <string name="icon_pack_summary">Változtassa meg az alkalmazásikonok kinézetét</string>
-    <string name="icon_pack_none">Nincs</string>
+    <string name="icon_pack_none">Alapértelmezett</string>
+    <string name="edit_drop_target_label">Szerkesztés</string>
+    <string name="edit_hint">Az ikon neve</string>
+    <string name="reset_icon">Alaphelyzet</string>
+    <string name="all_icons">Az összes ikon</string>
+    <string name="similar_icons">Hasonló ikonok</string>
+    <string name="ok">Ok</string>
+    <string name="icon_label">Felirat</string>
+    <string name="loading">Betöltés, kis türelmet...</string>
+    <string name="icon_chooser">Ikonválasztó</string>
+    <string name="icon_search">Ikonok keresése</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">Ikonok formája</string>
     <string name="icon_shape_rounded_square">Lekerekített sarkok</string>

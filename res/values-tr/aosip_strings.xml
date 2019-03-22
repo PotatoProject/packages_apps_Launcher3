@@ -31,13 +31,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Sub categories -->
     <string name="home_grid_title">Izgara düzeni</string>
     <string name="icon_layout_title">Simge düzeni</string>
-    <!-- Icon labels -->
-    <string name="allapps_long_labels_title">Uzun uygulama etiketleri</string>
-    <string name="allapps_long_labels_summary">Uygulamalara iki satır kullanarak etiket görüntüleme izni verir</string>
     <!-- Icon packs -->
     <string name="icon_pack">Simge paketi</string>
     <string name="icon_pack_summary">Uygulama simgelerinizin görünümünü değiştirin</string>
-    <string name="icon_pack_none">Hiçbiri</string>
+    <string name="icon_pack_none">Varsayılan</string>
+    <string name="edit_drop_target_label">Düzenle</string>
+    <string name="edit_hint">Simge adı</string>
+    <string name="reset_icon">Sıfırla</string>
+    <string name="all_icons">Tüm simgeler</string>
+    <string name="similar_icons">Benzer simgeler</string>
+    <string name="ok">Tamam</string>
+    <string name="icon_label">Etiket</string>
+    <string name="loading">Yükleniyor, lütfen bekleyin</string>
+    <string name="icon_chooser">Simge seçici</string>
+    <string name="icon_search">Simgeleri ara</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">Simge şekli</string>
     <string name="icon_shape_rounded_square">Yuvarlak kare</string>

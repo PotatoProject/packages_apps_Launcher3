@@ -31,13 +31,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Sub categories -->
     <string name="home_grid_title">그리드 레이아웃</string>
     <string name="icon_layout_title">아이콘 레이아웃</string>
-    <!-- Icon labels -->
-    <string name="allapps_long_labels_title">긴 앱 이름</string>
-    <string name="allapps_long_labels_summary">앱 이름을 두 줄로 표시하도록 허용합니다.</string>
     <!-- Icon packs -->
     <string name="icon_pack">아이콘 팩</string>
     <string name="icon_pack_summary">앱 아이콘 모양 변경하기</string>
-    <string name="icon_pack_none">표시 안 함</string>
+    <string name="icon_pack_none">기본</string>
+    <string name="edit_drop_target_label">편집</string>
+    <string name="edit_hint">아이콘 이름</string>
+    <string name="reset_icon">리셋</string>
+    <string name="all_icons">모든 아이콘</string>
+    <string name="similar_icons">비슷한 아이콘</string>
+    <string name="ok">확인</string>
+    <string name="icon_label">이름</string>
+    <string name="loading">불러오는 중, 잠시 기다려 주십시오</string>
+    <string name="icon_chooser">아이콘 선택기</string>
+    <string name="icon_search">아이콘 찾기</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">아이콘 모양</string>
     <string name="icon_shape_rounded_square">둥근 사각형</string>

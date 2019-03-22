@@ -31,13 +31,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Sub categories -->
     <string name="home_grid_title">تخطيط الشبكة</string>
     <string name="icon_layout_title">تخطيط الأيقونة</string>
-    <!-- Icon labels -->
-    <string name="allapps_long_labels_title">تسميات التطبيق الطويلة</string>
-    <string name="allapps_long_labels_summary">السماح للتطبيقات بعرض التسميات باستخدام سطرين</string>
     <!-- Icon packs -->
     <string name="icon_pack">حزمة الإيقونات</string>
     <string name="icon_pack_summary">تغيير مظهر أيقونات التطبيق الخاص بك</string>
-    <string name="icon_pack_none">لا شيء</string>
+    <string name="icon_pack_none">الإفتراضي</string>
+    <string name="edit_drop_target_label">تحرير</string>
+    <string name="edit_hint">أسم الأيقونة</string>
+    <string name="reset_icon">إعادة تعيين</string>
+    <string name="all_icons">جميع الأيقونات</string>
+    <string name="similar_icons">أيقونات متشابهة</string>
+    <string name="ok">حسناً</string>
+    <string name="icon_label">التسمية</string>
+    <string name="loading">جاري التحميل ، يرجى الانتظار</string>
+    <string name="icon_chooser">محدد الأيقونة</string>
+    <string name="icon_search">البحث عن الأيقونات</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">شكل الأيقونة</string>
     <string name="icon_shape_rounded_square">مربع مدور</string>

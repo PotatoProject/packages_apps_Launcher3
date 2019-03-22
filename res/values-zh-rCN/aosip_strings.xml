@@ -31,13 +31,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Sub categories -->
     <string name="home_grid_title">网格布局</string>
     <string name="icon_layout_title">图标布局</string>
-    <!-- Icon labels -->
-    <string name="allapps_long_labels_title">长应用程序标签</string>
-    <string name="allapps_long_labels_summary">允许应用程序使用两行显示标签</string>
     <!-- Icon packs -->
     <string name="icon_pack">图标包</string>
     <string name="icon_pack_summary">更改您的应用图标</string>
-    <string name="icon_pack_none">无</string>
+    <string name="icon_pack_none">Default</string>
+    <string name="edit_drop_target_label">Edit</string>
+    <string name="edit_hint">Icon name</string>
+    <string name="reset_icon">Reset</string>
+    <string name="all_icons">All icons</string>
+    <string name="similar_icons">Similar icons</string>
+    <string name="ok">Ok</string>
+    <string name="icon_label">Label</string>
+    <string name="loading">Loading, please wait</string>
+    <string name="icon_chooser">Icon chooser</string>
+    <string name="icon_search">Search for icons</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">图标形状</string>
     <string name="icon_shape_rounded_square">圆角方形</string>
