@@ -34,17 +34,17 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Icon packs -->
     <string name="icon_pack">图标包</string>
     <string name="icon_pack_summary">更改您的应用图标</string>
-    <string name="icon_pack_none">Default</string>
-    <string name="edit_drop_target_label">Edit</string>
-    <string name="edit_hint">Icon name</string>
-    <string name="reset_icon">Reset</string>
-    <string name="all_icons">All icons</string>
-    <string name="similar_icons">Similar icons</string>
-    <string name="ok">Ok</string>
-    <string name="icon_label">Label</string>
-    <string name="loading">Loading, please wait</string>
-    <string name="icon_chooser">Icon chooser</string>
-    <string name="icon_search">Search for icons</string>
+    <string name="icon_pack_none">默认</string>
+    <string name="edit_drop_target_label">编辑</string>
+    <string name="edit_hint">图标名称</string>
+    <string name="reset_icon">重置</string>
+    <string name="all_icons">所有图标</string>
+    <string name="similar_icons">相似图标</string>
+    <string name="ok">确定</string>
+    <string name="icon_label">标签</string>
+    <string name="loading">正在加载，请稍后</string>
+    <string name="icon_chooser">图标选择器</string>
+    <string name="icon_search">搜索图标</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">图标形状</string>
     <string name="icon_shape_rounded_square">圆角方形</string>

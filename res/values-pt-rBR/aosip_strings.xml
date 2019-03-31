@@ -34,17 +34,17 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Icon packs -->
     <string name="icon_pack">Pacote de ícones</string>
     <string name="icon_pack_summary">Alterar a aparência dos ícones do seu aplicativo</string>
-    <string name="icon_pack_none">Default</string>
-    <string name="edit_drop_target_label">Edit</string>
-    <string name="edit_hint">Icon name</string>
-    <string name="reset_icon">Reset</string>
-    <string name="all_icons">All icons</string>
-    <string name="similar_icons">Similar icons</string>
+    <string name="icon_pack_none">Padrão</string>
+    <string name="edit_drop_target_label">Editar</string>
+    <string name="edit_hint">Nome do ícone</string>
+    <string name="reset_icon">Redefinir</string>
+    <string name="all_icons">Todos os ícones</string>
+    <string name="similar_icons">Ícones semelhantes</string>
     <string name="ok">Ok</string>
-    <string name="icon_label">Label</string>
-    <string name="loading">Loading, please wait</string>
-    <string name="icon_chooser">Icon chooser</string>
-    <string name="icon_search">Search for icons</string>
+    <string name="icon_label">Etiqueta</string>
+    <string name="loading">Carregando, por favor aguarde</string>
+    <string name="icon_chooser">Seletor de ícone</string>
+    <string name="icon_search">Procurar por ícones</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">Formato dos Icones</string>
     <string name="icon_shape_rounded_square">Cantos arredondados</string>
