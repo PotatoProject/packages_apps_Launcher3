@@ -45,6 +45,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="loading">正在加载，请稍后</string>
     <string name="icon_chooser">图标选择器</string>
     <string name="icon_search">搜索图标</string>
+    <!-- Toast message for alerting users that no icon packs are available. -->
+    <string name="msg_no_icon_pack">没有可用的图标包</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">图标形状</string>
     <string name="icon_shape_rounded_square">圆角方形</string>

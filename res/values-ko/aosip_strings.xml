@@ -45,6 +45,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="loading">불러오는 중, 잠시 기다려 주십시오</string>
     <string name="icon_chooser">아이콘 선택기</string>
     <string name="icon_search">아이콘 찾기</string>
+    <!-- Toast message for alerting users that no icon packs are available. -->
+    <string name="msg_no_icon_pack">No icon packs available</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">아이콘 모양</string>
     <string name="icon_shape_rounded_square">둥근 사각형</string>

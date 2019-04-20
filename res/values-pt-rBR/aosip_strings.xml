@@ -45,6 +45,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="loading">Carregando, por favor aguarde</string>
     <string name="icon_chooser">Seletor de ícone</string>
     <string name="icon_search">Procurar por ícones</string>
+    <!-- Toast message for alerting users that no icon packs are available. -->
+    <string name="msg_no_icon_pack">Nenhum pacote de ícones disponível</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">Formato dos Icones</string>
     <string name="icon_shape_rounded_square">Cantos arredondados</string>

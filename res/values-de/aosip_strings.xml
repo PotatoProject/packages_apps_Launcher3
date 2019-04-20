@@ -34,17 +34,19 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Icon packs -->
     <string name="icon_pack">Symbolpaket</string>
     <string name="icon_pack_summary">Ändere das Aussehen deiner App-Symbole</string>
-    <string name="icon_pack_none">Default</string>
+    <string name="icon_pack_none">Standard</string>
     <string name="edit_drop_target_label">Edit</string>
     <string name="edit_hint">Icon name</string>
-    <string name="reset_icon">Reset</string>
-    <string name="all_icons">All icons</string>
+    <string name="reset_icon">Zurücksetzen</string>
+    <string name="all_icons">Alle Icons</string>
     <string name="similar_icons">Similar icons</string>
-    <string name="ok">Ok</string>
+    <string name="ok">iO</string>
     <string name="icon_label">Label</string>
     <string name="loading">Loading, please wait</string>
     <string name="icon_chooser">Icon chooser</string>
     <string name="icon_search">Search for icons</string>
+    <!-- Toast message for alerting users that no icon packs are available. -->
+    <string name="msg_no_icon_pack">Kein Icon-Packs sind gefunden</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">Symbolform</string>
     <string name="icon_shape_rounded_square">Abgerundetes Quadrat</string>
