@@ -34,19 +34,19 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Icon packs -->
     <string name="icon_pack">Pack de iconos</string>
     <string name="icon_pack_summary">Cambia la apariencia de tus iconos</string>
-    <string name="icon_pack_none">Default</string>
-    <string name="edit_drop_target_label">Edit</string>
-    <string name="edit_hint">Icon name</string>
-    <string name="reset_icon">Reset</string>
-    <string name="all_icons">All icons</string>
-    <string name="similar_icons">Similar icons</string>
-    <string name="ok">Ok</string>
-    <string name="icon_label">Label</string>
-    <string name="loading">Loading, please wait</string>
-    <string name="icon_chooser">Icon chooser</string>
-    <string name="icon_search">Search for icons</string>
+    <string name="icon_pack_none">Predeterminado</string>
+    <string name="edit_drop_target_label">Editar</string>
+    <string name="edit_hint">Nombre del icono</string>
+    <string name="reset_icon">Restablecer</string>
+    <string name="all_icons">Todos los iconos</string>
+    <string name="similar_icons">Iconos similares</string>
+    <string name="ok">Aceptar</string>
+    <string name="icon_label">Etiqueta</string>
+    <string name="loading">Cargando, por favor espere</string>
+    <string name="icon_chooser">Selector de icono</string>
+    <string name="icon_search">Buscar iconos</string>
     <!-- Toast message for alerting users that no icon packs are available. -->
-    <string name="msg_no_icon_pack">No icon packs available</string>
+    <string name="msg_no_icon_pack">No hay paquetes de iconos disponibles</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">Forma de los iconos</string>
     <string name="icon_shape_rounded_square">Cuadrado redondeado</string>
