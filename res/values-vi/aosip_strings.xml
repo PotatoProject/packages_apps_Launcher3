@@ -95,6 +95,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="hotseat_qsb_preferences">Tùy chỉnh</string>
     <string name="label_search">Tìm kiếm</string>
     <string name="label_voice_search">Tìm kiếm bằng giọng nói</string>
+    <!-- Hide/Show search bars -->
+    <string name="bottom_search_bar_title">Hiển thị thanh tìm kiếm bên dưới</string>
+    <string name="bottom_search_bar_summary">Hiển thị thanh tìm kiếm dưới Dock</string>
     <!-- Lock desktop -->
     <string name="lock_desktop_title">Khoá màn hình chính</string>
     <string name="lock_desktop_summary">Ngăn chặn các thay đổi trên màn hình chính</string>

@@ -20,13 +20,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="settings_title">Настройки</string>
     <!-- Categories -->
     <string name="home_category_title">Домашний экран</string>
-    <string name="home_category_summary">Макет сетки, ярлыки приложений и док-станция</string>
+    <string name="home_category_summary">Разметка сетки, настройка ярлыков приложений и док-панели</string>
     <string name="icons_category_title">Иконки</string>
-    <string name="icons_category_summary">Пакет значков, форма, размер и точки уведомлений</string>
+    <string name="icons_category_summary">Набор, форма и размер значков, точки уведомлений</string>
     <string name="app_drawer_category_title">Меню приложений</string>
-    <string name="app_drawer_category_summary">Скрыть приложения и подписи приложений</string>
+    <string name="app_drawer_category_summary">Скрыть приложения и подписи к ним</string>
     <string name="gestures_category_title">Жесты</string>
-    <string name="gestures_category_summary">Двойное нажатие, свайп вниз и очистить все жесты</string>
+    <string name="gestures_category_summary">Жесты двойного нажатия, свайпа вниз и очистки</string>
     <string name="gestures_other_category_title">Прочее</string>
     <!-- Sub categories -->
     <string name="home_grid_title">Схема сетки</string>
@@ -40,20 +40,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="reset_icon">Сброс</string>
     <string name="all_icons">Все значки</string>
     <string name="similar_icons">Похожие значки</string>
-    <string name="ok">Ok</string>
+    <string name="ok">OK</string>
     <string name="icon_label">Метка</string>
-    <string name="loading">Загрузка, пожалуйста подождите</string>
+    <string name="loading">Загрузка, пожалуйста, подождите</string>
     <string name="icon_chooser">Выбор иконки</string>
     <string name="icon_search">Поиск значков</string>
     <!-- Toast message for alerting users that no icon packs are available. -->
-    <string name="msg_no_icon_pack">Нет доступных иконок</string>
+    <string name="msg_no_icon_pack">Нет доступных наборов иконок</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">Форма иконок</string>
     <string name="icon_shape_rounded_square">Квадрат с закруглениями</string>
     <!-- Icon size -->
     <string name="icon_size_title">Размер иконок</string>
     <!-- Gestures -->
-    <string name="allow_swipe_down_clearall_title">Очистить всё из недавних</string>
+    <string name="allow_swipe_down_clearall_title">Очистить все из недавних</string>
     <string name="allow_swipe_down_clearall_desc">Свайп вниз в режиме просмотра недавних приложений, чтобы очистить все</string>
     <string name="pref_homescreen_dt_gestures_title">Двойное нажатие</string>
     <string name="pref_homescreen_swipe_down_gestures_title">Свайп вниз</string>
@@ -62,7 +62,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="pref_homescreen_gestures_sleep">Отключить экран</string>
     <string name="pref_homescreen_gestures_torch">Фонарик</string>
     <string name="pref_homescreen_gestures_google">Поиск в Google</string>
-    <string name="pref_homescreen_dt_gestures_google_toast">Приложение Google поиск не установлено</string>
+    <string name="pref_homescreen_dt_gestures_google_toast">Приложение поиска Google не установлено</string>
     <string name="pref_homescreen_gestures_volume_panel">Панель громкости</string>
     <string name="pref_homescreen_gestures_clear_notifications">Очистить уведомления</string>
     <string name="pref_homescreen_gestures_screenshot">Скриншот</string>
@@ -70,8 +70,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="pref_homescreen_gestures_qs_panel">Панель быстрых настроек</string>
     <string name="pref_homescreen_gesture_all_apps">Все приложения</string>
     <!-- Google Feed -->
-    <string name="google_feed_title">Включить приложение Google и Поиск</string>
-    <string name="google_feed_summary">Показать приложение Google с свайпом вправо с домашнего экрана и использовать его поисковую систему для горячих мест</string>
+    <string name="google_feed_title">Включить приложение Google и поиск</string>
+    <string name="google_feed_summary">Показать приложение Google свайпом вправо с домашнего экрана и использовать его поисковую систему</string>
     <!-- Grid -->
     <string name="num_default">По умолчанию</string>
     <string name="number_of_columns_title">Количество столбцов</string>
@@ -85,7 +85,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="hidden_app">Все приложения</string>
     <string name="hide_selected">Скрыть выбранное(ые) приложение(я)</string>
     <string name="more">Еще</string>
-    <string name="reset_hidden_apps">Сбросить всё</string>
+    <string name="reset_hidden_apps">Сбросить все</string>
     <string name="reset_hidden_apps_done">Скрытые приложения теперь доступны</string>
     <!-- Show labels on icon -->
     <string name="app_show_label_title">Названия приложений</string>
@@ -95,6 +95,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="hotseat_qsb_preferences">Настройки</string>
     <string name="label_search">Поиск</string>
     <string name="label_voice_search">Голосовой поиск</string>
+    <!-- Hide/Show search bars -->
+    <string name="bottom_search_bar_title">Показывать строку поиска внизу</string>
+    <string name="bottom_search_bar_summary">Показывать строку поиска в док-баре</string>
     <!-- Lock desktop -->
     <string name="lock_desktop_title">Заблокировать рабочий стол</string>
     <string name="lock_desktop_summary">Запретить изменения домашнего экрана</string>

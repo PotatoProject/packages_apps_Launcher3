@@ -95,6 +95,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="hotseat_qsb_preferences">Tercihler</string>
     <string name="label_search">Arama</string>
     <string name="label_voice_search">Sesli arama</string>
+    <!-- Hide/Show search bars -->
+    <string name="bottom_search_bar_title">Arama çubuğunu altta göster</string>
+    <string name="bottom_search_bar_summary">Arama çubuğunu alt panelin altında gösterir</string>
     <!-- Lock desktop -->
     <string name="lock_desktop_title">Ana ekranı kilitle</string>
     <string name="lock_desktop_summary">Giriş ekranının değiştirilmesini önleyin</string>

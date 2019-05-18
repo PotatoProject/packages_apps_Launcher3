@@ -95,6 +95,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="hotseat_qsb_preferences">Předvolby</string>
     <string name="label_search">Hledat</string>
     <string name="label_voice_search">Hlasové vyhledávání</string>
+    <!-- Hide/Show search bars -->
+    <string name="bottom_search_bar_title">Zobrazit vyhledávací panel v dolní části</string>
+    <string name="bottom_search_bar_summary">Zobrazit vyhledávací panel v doku</string>
     <!-- Lock desktop -->
     <string name="lock_desktop_title">Uzamčení pracovní plochy</string>
     <string name="lock_desktop_summary">Zabránit v úpravě domovské obrazovky</string>

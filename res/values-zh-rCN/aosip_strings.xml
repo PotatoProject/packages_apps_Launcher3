@@ -95,6 +95,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="hotseat_qsb_preferences">首选项</string>
     <string name="label_search">搜索</string>
     <string name="label_voice_search">语音搜索</string>
+    <!-- Hide/Show search bars -->
+    <string name="bottom_search_bar_title">Show search bar on bottom</string>
+    <string name="bottom_search_bar_summary">Show the search bar on the Dock</string>
     <!-- Lock desktop -->
     <string name="lock_desktop_title">锁定桌面</string>
     <string name="lock_desktop_summary">防止主屏幕被修改</string>

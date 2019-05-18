@@ -95,6 +95,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="hotseat_qsb_preferences">التفضيلات</string>
     <string name="label_search">البحث</string>
     <string name="label_voice_search">البحث الصوتي</string>
+    <!-- Hide/Show search bars -->
+    <string name="bottom_search_bar_title">إظهار شريط البحث في الأسفل</string>
+    <string name="bottom_search_bar_summary">عرض شريط البحث على الشريط السفلي</string>
     <!-- Lock desktop -->
     <string name="lock_desktop_title">قفل سطح المكتب</string>
     <string name="lock_desktop_summary">منع الشاشة الرئيسية من التعديل</string>

@@ -95,6 +95,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="hotseat_qsb_preferences">Tulajdonságok</string>
     <string name="label_search">Keresés</string>
     <string name="label_voice_search">Hangalapú keresés</string>
+    <!-- Hide/Show search bars -->
+    <string name="bottom_search_bar_title">A keresősáv megjelenítése alul</string>
+    <string name="bottom_search_bar_summary">A keresősáv megjelenítése a Dokkon</string>
     <!-- Lock desktop -->
     <string name="lock_desktop_title">Asztal zárolása</string>
     <string name="lock_desktop_summary">Kezdőképernyő módosításának elkerülése</string>

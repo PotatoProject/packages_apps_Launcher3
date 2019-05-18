@@ -95,6 +95,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="hotseat_qsb_preferences">Préférences</string>
     <string name="label_search">Rechercher</string>
     <string name="label_voice_search">Recherche vocale</string>
+    <!-- Hide/Show search bars -->
+    <string name="bottom_search_bar_title">Afficher la barre de recherche en bas</string>
+    <string name="bottom_search_bar_summary">Afficher la barre de recherche dans le dock</string>
     <!-- Lock desktop -->
     <string name="lock_desktop_title">Verrouiller l\'écran d\'accueil</string>
     <string name="lock_desktop_summary">Empêcher la modification de l\'écran d\'accueil</string>
