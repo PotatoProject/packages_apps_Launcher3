@@ -96,10 +96,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="label_search">Pesquisar</string>
     <string name="label_voice_search">Pesquisa por voz</string>
     <!-- Hide/Show search bars -->
-    <string name="bottom_search_bar_title">Show search bar on bottom</string>
-    <string name="bottom_search_bar_summary">Show the search bar on the Dock</string>
+    <string name="bottom_search_bar_title">Mostrar a barra de pesquisa em baixo</string>
+    <string name="bottom_search_bar_summary">Mostrar a barra de pesquisa na dock</string>
     <!-- Lock desktop -->
     <string name="lock_desktop_title">Bloquear ambiente de trabalho</string>
     <string name="lock_desktop_summary">Impedir modificação do ecran inicial</string>
     <string name="lock_desktop_toast">Desktop está bloqueado. Desbloquear para continuar.</string>
+    <!-- QuickSpace -->
+    <string name="show_quickspace_title">Num relance</string>
+    <string name="show_quickspace_summary">Mostrar em cima no ecrã inicial</string>
+    <string name="abbrev_wday_month_day_no_year">EEEEMMMd</string>
 </resources>

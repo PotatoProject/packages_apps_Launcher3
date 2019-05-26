@@ -102,4 +102,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="lock_desktop_title">Khoá màn hình chính</string>
     <string name="lock_desktop_summary">Ngăn chặn các thay đổi trên màn hình chính</string>
     <string name="lock_desktop_toast">Màn hình chính đã bị khoá. Mở khoá để tiếp tục.</string>
+    <!-- QuickSpace -->
+    <string name="show_quickspace_title">Nhìn Thoáng qua</string>
+    <string name="show_quickspace_summary">Hiển thị ở đầu Màn hình chính của bạn</string>
+    <string name="abbrev_wday_month_day_no_year">EEEEMMMd</string>
 </resources>

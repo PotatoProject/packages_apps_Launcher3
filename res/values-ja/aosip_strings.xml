@@ -102,4 +102,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="lock_desktop_title">デスクトップをロック</string>
     <string name="lock_desktop_summary">ホーム画面の編集を防ぐ</string>
     <string name="lock_desktop_toast">デスクトップはロックされています。進めるにはロック解除して下さい。</string>
+    <!-- QuickSpace -->
+    <string name="show_quickspace_title">At A Glance</string>
+    <string name="show_quickspace_summary">ホーム画面の上部に表示する</string>
+    <string name="abbrev_wday_month_day_no_year">EEEEMMMd</string>
 </resources>

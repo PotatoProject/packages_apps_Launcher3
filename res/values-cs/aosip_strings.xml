@@ -102,4 +102,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="lock_desktop_title">Uzamčení pracovní plochy</string>
     <string name="lock_desktop_summary">Zabránit v úpravě domovské obrazovky</string>
     <string name="lock_desktop_toast">Plocha je uzamčena. Odemkněte ji a pokračujte.</string>
+    <!-- QuickSpace -->
+    <string name="show_quickspace_title">At a Glance</string>
+    <string name="show_quickspace_summary">Zobrazit v horní části Domovské obrazovky</string>
+    <string name="abbrev_wday_month_day_no_year">EEEEMMMd</string>
 </resources>

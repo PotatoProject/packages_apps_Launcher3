@@ -102,4 +102,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="lock_desktop_title">Bloquear área de trabalho</string>
     <string name="lock_desktop_summary">Impedir que a tela inicial seja modificada</string>
     <string name="lock_desktop_toast">Área de trabalho está bloqueada. Desbloqueie antes de prosseguir.</string>
+    <!-- QuickSpace -->
+    <string name="show_quickspace_title">At A Glance</string>
+    <string name="show_quickspace_summary">Show at the top of your Home screen</string>
+    <string name="abbrev_wday_month_day_no_year">EEEEMMMd</string>
 </resources>

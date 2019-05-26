@@ -102,4 +102,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="lock_desktop_title">Ana ekranı kilitle</string>
     <string name="lock_desktop_summary">Giriş ekranının değiştirilmesini önleyin</string>
     <string name="lock_desktop_toast">Masaüstü kilitlendi. Devam etmek için kilidini açın.</string>
+    <!-- QuickSpace -->
+    <string name="show_quickspace_title">Bir bakışta</string>
+    <string name="show_quickspace_summary">Ana ekranın üst kısmında göster</string>
+    <string name="abbrev_wday_month_day_no_year">EEEEMMMd</string>
 </resources>

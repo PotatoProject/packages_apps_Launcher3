@@ -102,4 +102,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="lock_desktop_title">Asztal zárolása</string>
     <string name="lock_desktop_summary">Kezdőképernyő módosításának elkerülése</string>
     <string name="lock_desktop_toast">Kezdőképernyő zárolva. Oldja fel a folytatáshoz.</string>
+    <!-- QuickSpace -->
+    <string name="show_quickspace_title">\"At A Glance\"</string>
+    <string name="show_quickspace_summary">Jelenítse meg a kezdőképernyő tetején</string>
+    <string name="abbrev_wday_month_day_no_year">EEEEMMMd</string>
 </resources>

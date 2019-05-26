@@ -50,7 +50,7 @@ import android.widget.TextView;
 import com.android.launcher3.Launcher;
 import com.android.launcher3.LauncherCallbacks;
 
-import com.android.internal.util.aosip.aosipUtils;
+import com.android.internal.util.potato.PotatoUtils;
 
 import com.android.launcher3.DeviceProfile;
 import com.android.launcher3.Insettable;
@@ -176,7 +176,7 @@ public abstract class BaseQsbView extends FrameLayout implements OnClickListener
     }
 
     public void loadMicViews() {
-        boolean hasGsa = aosipUtils.isPackageInstalled(getContext(), LauncherCallbacks.SEARCH_PACKAGE);
+        boolean hasGsa = PotatoUtils.isPackageInstalled(getContext(), LauncherCallbacks.SEARCH_PACKAGE);
         mMicIconView = (ImageView) findViewById(R.id.mic_icon);
         mMicIconView.setOnClickListener(hasGsa ? this : null);
         mMicIconView.setVisibility(hasGsa ? View.VISIBLE : View.GONE);

@@ -102,4 +102,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="lock_desktop_title">Заблокировать рабочий стол</string>
     <string name="lock_desktop_summary">Запретить изменения домашнего экрана</string>
     <string name="lock_desktop_toast">Рабочий стол заблокирован. Разблокируйте его, чтобы продолжить.</string>
+    <!-- QuickSpace -->
+    <string name="show_quickspace_title">Обратный отсчет</string>
+    <string name="show_quickspace_summary">Отображать в верхней части Домашнего экрана</string>
+    <string name="abbrev_wday_month_day_no_year">EEEEMMMd</string>
 </resources>
