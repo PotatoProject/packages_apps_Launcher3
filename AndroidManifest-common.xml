@@ -158,8 +158,7 @@
             android:name="com.android.launcher3.graphics.GridOptionsProvider"
             android:authorities="${packageName}.grid_control"
             android:exported="true"
-            android:writePermission="${packageName}.permission.WRITE_SETTINGS"
-            android:readPermission="${packageName}.permission.READ_SETTINGS" />
+            android:enabled="false" />
 
         <!--
         The settings activity. To extend point settings_fragment_name to appropriate fragment class
