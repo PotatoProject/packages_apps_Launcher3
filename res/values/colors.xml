@@ -90,4 +90,5 @@
     <color name="preload_icon_background_color_light">#B5CAD7</color>
     <color name="preload_icon_accent_color_dark">#4BB6E8</color>
     <color name="preload_icon_background_color_dark">#40484D</color>
+
 </resources>
